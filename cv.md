@@ -2,6 +2,11 @@
 
 ## Contacts
 
+- Phone: +7 (986) 978-31-48
+- E-mail: gilimkhanov95@gmail.com
+- Telegram: [@arthur_gilimkhanov](https://t.me/arthur_gilimkhanov)
+- Twitter: [a_gilimkhanov](https://twitter.com/a_gilimkhanov)
+
 ## About me
 
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
@@ -11,6 +16,20 @@
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 
 ## Code examples
+
+```
+function bingo(ticket, win){
+  let miniGamesWins = 0;
+
+  ticket.forEach((miniGame) => {
+    let chars = [...miniGame[0]];
+
+    if (chars.includes(String.fromCharCode(miniGame[1]))) { miniGamesWins ++ }
+  })
+
+  return miniGamesWins >= win ? 'Winner!' : 'Loser!';
+}
+```
 
 ## Experience
 
@@ -22,4 +41,4 @@
 
 ## English level
 
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+A1 - Elementary
