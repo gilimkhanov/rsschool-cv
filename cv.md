@@ -9,11 +9,17 @@
 
 ## About me
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+I'm currently looking for the position of junior front-end developer. I prioritize development and teamwork. Unfortunately, there are no pet projects yet, but there will be soon, stay tuned.
 
 ## Skills
 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+- HTML5;
+- CSS3;
+- JavaScript;
+- BEM;
+- Git/GitHub;
+- Figma;
+- Windows/Linux;
 
 ## Code examples
 
@@ -33,11 +39,27 @@ function bingo(ticket, win){
 
 ## Experience
 
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+**Municipal administrative institution of additional education Palace of creativity for children and youth of the urban district Neftekamsk city.**
+
+Methodist (2018-2021)
+
+**Avtoplast LLC**
+
+Graphic designer (2021-present)
 
 ## Education
 
-Образование (включая пройденные курсы и тренинги)
+**Bashkir State University**.
+
+Applied mathematics and computer science
+
+2014-2018
+
+Bachelor degree
+
+[Hexlet](https://ru.hexlet.io/u/gilimkhanov)
+
+[freeCodeCamp](https://www.freecodecamp.org/gilimkhanov)
 
 ## English level
 
